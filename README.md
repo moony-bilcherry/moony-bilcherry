@@ -8,7 +8,7 @@
 ## 💡 What I Do  
 - Develop and maintain **Node.js backend applications and C# desktop applications**  </br>
 - Design and optimize **RESTful APIs & databases** (MySQL, PostgreSQL, MSSQL)</br>
-- Contuct testing using: NUnit and  Selenium</br>
+- Conduct testing using: NUnit and  Selenium</br>
 - Debug, troubleshoot, and refactor </br>
 - Automate workflows</br>
 
